@@ -1,0 +1,109 @@
+{
+  "orders": {
+    "a76bd50d": {
+      "created_at": "2026-02-07T18:24:32",
+      "user_id": 7017686455,
+      "username": "@Solr32f",
+      "link": "https://rozetka.com.ua/ua/gamepro_storm_gm247/p71752209/",
+      "desc": "Мишка чорний, один",
+      "contact": "+380939350930",
+      "promo": null,
+      "discount": 0.0,
+      "status": "REJECTED",
+      "payment": {
+        "method": "mono",
+        "required": 436.25,
+        "paid": 0.0,
+        "status": "NOT_PAID"
+      },
+      "base_price": 349.0,
+      "commission": 87.25,
+      "discount_value": 0.0,
+      "final_price": 436.25,
+      "rejected_by_user_at": "2026-02-07T18:27:12"
+    },
+    "d3c1b571": {
+      "created_at": "2026-02-07T19:19:28",
+      "user_id": 7017686455,
+      "username": "@Solr32f",
+      "link": "https://prom.ua/ua/p2623322498-komplekt-rul-pedali.html",
+      "desc": "dfdfs",
+      "contact": "@fjndsjnf",
+      "promo": "AXDWR2",
+      "discount": 0.1,
+      "status": "REJECTED",
+      "payment": {
+        "method": "mono",
+        "required": 11637.5,
+        "paid": 0.0,
+        "status": "NOT_PAID"
+      },
+      "base_price": 9500.0,
+      "commission": 2375.0,
+      "discount_value": 237.5,
+      "final_price": 11637.5,
+      "rejected_by_user_at": "2026-02-07T19:20:41"
+    }
+  },
+  "archive": {
+    "19b78f9d": {
+      "created_at": "2026-02-07T18:39:26",
+      "user_id": 7017686455,
+      "username": "@Solr32f",
+      "link": "https://prom.ua/ua/p2623322498-komplekt-rul-pedali.html",
+      "desc": "fdsfd",
+      "contact": "+380734372234",
+      "promo": "AXDWR2",
+      "discount": 0.1,
+      "status": "DONE",
+      "payment": {
+        "method": "mono",
+        "required": 11637.5,
+        "paid": 0.0,
+        "status": "PAID",
+        "paid_at": "2026-02-07T20:14:04"
+      },
+      "base_price": 9500.0,
+      "commission": 2375.0,
+      "discount_value": 237.5,
+      "final_price": 11637.5
+    },
+    "6c211fca": {
+      "created_at": "2026-02-07T20:17:21",
+      "user_id": 7017686455,
+      "username": "@Solr32f",
+      "link": "32",
+      "desc": "32131",
+      "contact": "321",
+      "promo": null,
+      "discount": 0.0,
+      "status": "DONE",
+      "payment": {
+        "method": "mono",
+        "required": 1.25,
+        "paid": 0.0,
+        "status": "PAID",
+        "paid_at": "2026-02-07T20:17:52"
+      },
+      "base_price": 1.0,
+      "commission": 0.25,
+      "discount_value": 0.0,
+      "final_price": 1.25
+    }
+  },
+  "banned_users": [],
+  "user_activity": {
+    "7017686455": 24,
+    "1750230081": 7
+  },
+  "user_profiles": {
+    "7017686455": {
+      "username": "Solr32f",
+      "first_name": "ㅤ"
+    },
+    "1750230081": {
+      "username": "A1ztv",
+      "first_name": "Unknown"
+    }
+  }
+}
